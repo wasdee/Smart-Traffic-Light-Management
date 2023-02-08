@@ -9,6 +9,10 @@ The untold project that could shape the future Bangkok traffic from S-Bootster 2
       </a>
 </div>
 
+
+> Team No.9 is a company that has developed a smart traffic light management system that uses AI to optimize traffic flow. The system is being implemented in Bangkok, Thailand, and has been successful in reducing travel time by 30%. The system is free to use for the police, and the company is currently working on a business model that will charge preneur per year for the use of the system.
+> from summarize.tech
+
 | Content | Link | Preserve Link |
 | --- | --- |  --- |
 | Competition Listing Site | https://s-booster.jp/en/2019/final/index.html | https://perma.cc/8YCR-6JUH |
