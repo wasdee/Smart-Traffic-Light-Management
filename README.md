@@ -5,7 +5,7 @@ The untold project that could shape the future Bangkok traffic from S-Bootster 2
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=epQO0tEb9eI">
-         <img src="https://img.youtube.com/vi/epQO0tEb9eI/0.jpg" style="width:100%;">
+         <img src="https://user-images.githubusercontent.com/8089231/217507948-eba7da19-2f42-42ef-80ec-91809967a576.png" style="width:100%;">
       </a>
 </div>
 
